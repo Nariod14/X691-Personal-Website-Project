@@ -5,3 +5,8 @@
 Name: Minwoo Yang
 Role: Team Lead
 Description: Create Azure tasks
+
+
+Name: Dorian Germain Zambo Zambo
+Role: Back End Dev
+Description: Created wireframes, performed preliminary product research.
